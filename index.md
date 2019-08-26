@@ -10,3 +10,8 @@
 [Ruby Notes For Professionals Book](https://goalkicker.com/RubyBook/)
 
 # Paid Ruby Resources
+
+
+# Test
+
+[2019-08-26 Good Free Ruby Book](./_posts/2019-08-26-Good-Free-Ruby-Book.md)
