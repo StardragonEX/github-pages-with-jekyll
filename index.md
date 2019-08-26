@@ -1,14 +1,12 @@
-# Free Ruby Documentation
+# Free DragonRuby Game Toolkit Resources
+
+
+
+# Paid DragonRuby Game Toolkit Resources
+
+
+# Free Ruby Resources
 
 [Ruby Notes For Professionals Book](https://goalkicker.com/RubyBook/)
 
-# Paid Ruby Documentation
-
-
-
-# Free DragonRuby Game Toolkit Documentation
-
-
-
-# Paid DragonRuby Game Toolkit Documentation
-
+# Paid Ruby Resources
